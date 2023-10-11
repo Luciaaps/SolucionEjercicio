@@ -1,5 +1,5 @@
 ---
-title: "Solucion Ejercicio"
+title: "Solucion Ejercicio Análisis Exploratorio de Datos"
 author: "Lucía Ponce Salmerón"
 date: "`r Sys.Date()`"
 output: 
